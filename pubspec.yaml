@@ -1,0 +1,45 @@
+name: scroll_transition
+description: >-
+  SwiftUI-style scrollTransition and visualEffect for Flutter. Fade, scale,
+  rotate, blur or slide list items by their viewport position without rebuilds.
+version: 0.1.0
+homepage: https://github.com/Manish1Pandey/scroll_transition
+repository: https://github.com/Manish1Pandey/scroll_transition
+issue_tracker: https://github.com/Manish1Pandey/scroll_transition/issues
+topics:
+  - scroll
+  - animation
+  - effects
+  - transition
+  - ui
+
+screenshots:
+  - description: "3D drum list: ScrollEffects.rotate3D().fade() tilts items away at both edges."
+    path: screenshots/drum_rotate3d.png
+  - description: "GridView cells blur and desaturate as they leave the viewport."
+    path: screenshots/grid_blur_saturate.png
+  - description: "Horizontal carousel in RTL driven by VisualEffect geometry (scale + tilt)."
+    path: screenshots/carousel_visual_effect_rtl.png
+  - description: "PageView mid-swipe: pages rotate, shrink and fade by their phase."
+    path: screenshots/pageview_rotate_scale.png
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
