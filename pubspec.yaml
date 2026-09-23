@@ -14,6 +14,8 @@ topics:
   - ui
 
 screenshots:
+  - description: "Animated: list rows tilt in 3D and fade toward both viewport edges while scrolling."
+    path: screenshots/demo.gif
   - description: "3D drum list: ScrollEffects.rotate3D().fade() tilts items away at both edges."
     path: screenshots/drum_rotate3d.png
   - description: "GridView cells blur and desaturate as they leave the viewport."

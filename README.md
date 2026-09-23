@@ -10,6 +10,10 @@ Solves [flutter/flutter#128870](https://github.com/flutter/flutter/issues/128870
 package*). The closest existing package, `visual_effect`, is experimental
 and has not been updated since 2023.
 
+![List items tilting and fading in 3D as the list scrolls](screenshots/demo.gif)
+
+*The `3D drum` demo from `example/`: `ScrollEffects.rotate3D().fade()` tilts and fades each row as it nears the top and bottom edges of the viewport.*
+
 ```dart
 ListView.builder(
   itemBuilder: (context, i) => ScrollTransition(
