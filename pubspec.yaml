@@ -2,7 +2,7 @@ name: scroll_transition
 description: >-
   SwiftUI-style scrollTransition and visualEffect for Flutter. Fade, scale,
   rotate, blur or slide list items by their viewport position without rebuilds.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/Manish1Pandey/scroll_transition
 repository: https://github.com/Manish1Pandey/scroll_transition
 issue_tracker: https://github.com/Manish1Pandey/scroll_transition/issues

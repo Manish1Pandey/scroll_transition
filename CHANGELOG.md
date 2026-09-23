@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Documentation only: added a demo GIF showing the 3D drum effect while scrolling. No code changes.
+
 ## 0.1.0
 
 * Initial release.
