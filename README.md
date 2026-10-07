@@ -31,7 +31,7 @@ ListView.builder(
 
 ```yaml
 dependencies:
-  scroll_transition: ^0.1.0
+  scroll_transition: ^0.1.1
 ```
 
 ```dart
