@@ -204,6 +204,12 @@ PageView, a reversed chat, the animated configuration, builder mode, a
 pinned header with `topInset`, nested rows with keep-alive, and a live
 geometry readout.
 
+## Links
+
+- **Documentation and live demo:** [flutterdev.in/packages/scroll_transition](https://flutterdev.in/packages/scroll_transition/)
+- **More Flutter packages:** [flutterdev.in](https://flutterdev.in)
+- **Learn data structures & algorithms in Dart:** [Algoistan](https://algoistan.flutterdev.in)
+
 ## License
 
 MIT © 2026 Manish Kumar Panday
